@@ -30,7 +30,7 @@ const AdminDashboard = () => {
             Admin Dashboard
           </h2>
           <h1 className="text-2xl font-medium text-gray-900 sm:text-3xl title-font">
-            Manager of Apli bank
+            Manager of Pratiti bank
           </h1>
         </div>
         <div className="flex w-4/5 space-x-3">

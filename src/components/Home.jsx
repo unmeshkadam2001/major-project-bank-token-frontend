@@ -12,7 +12,7 @@ const Home = () => {
             Services at your fingertips !
           </h2>
           <h1 className="text-2xl font-medium text-gray-900 sm:text-3xl title-font">
-            Welcome To Apli bank Token System 
+            Welcome To Pratiti bank Token System 
           </h1>
         </div>
         <div className="flex flex-col w-3/5 md:flex-row">

@@ -68,7 +68,7 @@ const AddCatchAll=()=>{
             Admin Dashboard Of Adding Catch All Counter 
           </h2>
           <h1 className="text-2xl font-medium text-gray-900 sm:text-3xl title-font">
-            Manager of Apli bank
+            Manager of pratiti bank
           </h1>
         </div>
 
